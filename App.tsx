@@ -16,10 +16,7 @@ import {
 //https://reactnavigation.org/docs/react-native-screens/
 enableScreens();
 
-const overmind = createOvermind(config, {
-  devtools: '<your_ip>:3031',
-  logProxies: true,
-});
+const overmind = createOvermind(config);
 
 export default function App() {
   return (

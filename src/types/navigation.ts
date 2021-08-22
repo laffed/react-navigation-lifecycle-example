@@ -9,6 +9,7 @@ export type AuthStackParams = {
 };
 
 export type AppStackParams = {
-  Home: undefined;
+  FormScreen: undefined;
+  NextScreen: undefined;
 };
 

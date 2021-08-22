@@ -1,1 +1,2 @@
-export {Home} from "./Home/Home";
+export {FormScreen} from './FormScreen/FormScreen';
+export {NextScreen} from './NextScreen/NextScreen';

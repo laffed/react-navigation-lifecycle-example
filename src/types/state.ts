@@ -1,8 +1,5 @@
 export type AppState = {
-  showOnboarding: boolean;
-  prevAppVersion: number;
-  showSplash: boolean;
-  splashMessage: string;
+  globalStateCount: number;
 }
 
 export type UserState = {
